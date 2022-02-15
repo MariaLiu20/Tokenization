@@ -20,11 +20,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-import java.util.Collections;
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.Map;
-import static java.util.stream.Collectors.toMap;
 
 // returns "usa"
 abbreviate("u.s.a.");
